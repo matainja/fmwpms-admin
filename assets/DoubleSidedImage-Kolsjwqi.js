@@ -1,1 +1,0 @@
-import{u as c,j as a,cf as n}from"./index-DMOw5CQP.js";const{MODE_DARK:p}=n,E=({src:e,darkModeSrc:s,alt:o="",...t})=>{const m=c(r=>r.theme.mode);return a.jsx("img",{src:m===p?s:e,alt:o,...t})};export{E as D};

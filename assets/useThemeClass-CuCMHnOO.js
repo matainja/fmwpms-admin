@@ -1,1 +1,0 @@
-import{bg as t}from"./index-DT1ln_eE.js";function n(){const{themeColor:r,primaryColorLevel:o}=t(),e=`${r}-${o}`;return{ringTheme:`ring-${e}`,borderTheme:`border-${e}`,bgTheme:`bg-${e}`,textTheme:`text-${e}`}}export{n as u};
