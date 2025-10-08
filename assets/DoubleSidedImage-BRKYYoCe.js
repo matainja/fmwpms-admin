@@ -1,0 +1,1 @@
+import{u as c,j as a,ce as n}from"./index-ee-rpyvk.js";const{MODE_DARK:p}=n,E=({src:e,darkModeSrc:s,alt:o="",...t})=>{const m=c(r=>r.theme.mode);return a.jsx("img",{src:m===p?s:e,alt:o,...t})};export{E as D};
