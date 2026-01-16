@@ -1,0 +1,1 @@
+import{u}from"./index-CU4jOGQJ.js";import{l as e}from"./lodash-aE_dQ5Ha.js";function a(){const s=u(t=>t.auth.user.authority)||[];return{canAccess:t=>{const r=[t];return e.isEmpty(r)||e.isEmpty(s)?!0:r.some(o=>s.includes(o))}}}export{a as u};

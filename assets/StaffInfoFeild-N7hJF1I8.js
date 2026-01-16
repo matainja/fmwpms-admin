@@ -1,0 +1,1 @@
+import{j as s}from"./index-CU4jOGQJ.js";import{R as i}from"./index-Cp6zA9Y0.js";const l=({title:a,value:r,convertValue:t,customClassName:e,customTitleClassName:m,customValueClassName:o})=>s.jsxs("div",{className:e,children:[s.jsx("span",{className:m,children:a}),s.jsx("p",{className:`text-gray-700 dark:text-gray-200 font-semibold ${o}`,children:t?i(r||""):r})]});export{l as S};
